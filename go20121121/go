@@ -1,0 +1,4 @@
+./ss 22 -a $1 -i eth1 -s 10
+cat bios.txt |sort | uniq > mfu.txt
+./hpiod 1800
+rm -f bios.txt

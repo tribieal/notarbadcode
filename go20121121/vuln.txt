@@ -1,0 +1,182 @@
+
+root:0000:87.119.25.203
+DUP hbahk:ccomawbo:87.194.12.1
+DUP root:metallica:87.194.12.1
+DUP root:metalib?mtak:87.194.12.1
+DUP root:dream:87.194.12.1
+DUP root:Drag0n:87.194.12.1
+DUP root:2008:87.194.12.1
+DUP root:2007:87.194.12.1
+DUP koot:d80aeab9ea6de86f5004d9acdb481c50:87.194.12.1
+DUP root:1uck3y25:87.194.12.1
+DUP root:adminpersiaIPPBX:87.194.12.1
+DUP mysql:laur81088:87.194.12.1
+DUP root:jokermixer:87.194.12.1
+root:INDIA:87.194.12.1
+DUP hbahk:ccomawbo:87.194.240.1
+DUP root:matthew:87.194.240.1
+DUP root:dicianuqwe:87.194.240.1
+DUP root:1q2w3er4:87.194.240.1
+DUP koot:d80aeab9ea6de86f5004d9acdb481c50:87.194.240.1
+DUP root:goodluck:87.194.240.1
+DUP amulet:00991234:87.194.240.1
+mysql:laur81088:87.194.240.1
+root:asdf1234:88.151.175.218
+DUP root:tluterbi:90.223.205.178
+DUP root:erceothbala:90.223.205.178
+DUP hbabr:erceotra:90.223.205.178
+DUP hbahk:ccomawbo:90.223.205.178
+DUP root:l3tm31n:90.223.205.178
+DUP root:kz1819ak:90.223.205.178
+DUP root:kyle:90.223.205.178
+DUP root:crying:90.223.205.178
+DUP root:cristi:90.223.205.178
+DUP root:cream:90.223.205.178
+DUP root:123456789:90.223.205.178
+DUP root:12345678:90.223.205.178
+DUP root:1234567:90.223.205.178
+DUP sroot:7hur@y@t3am$#@!(*(:90.223.205.178
+DUP koot:d80aeab9ea6de86f5004d9acdb481c50:90.223.205.178
+DUP root:Kyaw.Sein4312:90.223.205.178
+DUP root:m4rk0nach:90.223.205.178
+DUP root:AbC786:90.223.205.178
+DUP amulet:00991234:90.223.205.178
+DUP ceduccl:SglYo8YijE:90.223.205.178
+DUP nobody:laur81088:90.223.205.178
+DUP mysql:laur81088:90.223.205.178
+DUP root:@#$%Thebugzbugzbunny@#$%:90.223.205.178
+DUP root:locahost:90.223.205.178
+root:local:90.223.205.178
+root:password:90.222.170.222
+root:monitor:91.117.103.95
+root:p@ssw0rd:50.0.198.250
+root:q1w2e3:50.115.166.150
+root:123456:50.116.0.238
+root:MaiDuteMaiTareSiLentDacileaWaiCacatule:50.18.193.67
+root:password:50.18.229.205
+root:123456:50.19.78.116
+root:123456:121.22.19.163
+root:000000:121.26.222.40
+root:000000:121.229.217.33
+root:000000:121.27.83.114
+root:password:121.127.198.216
+root:1qaz2wsx3edc:133.242.132.33
+root:P@ssw0rd:133.242.6.152
+root:000000:140.240.183.219
+root:123456:149.154.159.174
+root:000000:171.107.53.97
+root:asd123:173.0.50.42
+root:123456:173.161.140.236
+root:1234:173.19.188.137
+root:password:173.195.11.173
+root:dragoss3fma:173.203.217.181
+root:dragoss3fma:173.203.238.203
+root:dragoss3fma:173.203.240.205
+root:123456:173.255.194.231
+root:123456:173.255.216.100
+DUP root:pulamea:173.255.252.90
+root:123456:173.255.252.90
+root:102030:175.0.99.200
+root:password:175.136.145.236
+root:cradle:175.184.36.173
+root:1qazxsw23edc:175.201.132.227
+root:1qazxsw23edc:175.203.170.4
+root:mediaexcel:178.248.200.8
+root:1q2w3e:178.254.6.103
+root:1:178.46.155.81
+root:000000:180.143.107.248
+root:000000:180.118.219.116
+root:000000:180.140.16.53
+root:1:180.142.150.114
+root:1qaz2wsx:180.160.226.238
+root:forever:180.109.5.182
+root:1:180.175.181.182
+DUP root:7hur@y@t3am$#@!(*(:180.183.114.7
+root:7hur@y@t3am$#@!(*(:180.183.114.7
+DUP root:7hur@y@t3am$#@!(*(:180.183.113.224
+root:7hur@y@t3am$#@!(*(:180.183.113.224
+DUP root:7hur@y@t3am$#@!(*(:180.183.128.62
+root:7hur@y@t3am$#@!(*(:180.183.128.62
+DUP root:7hur@y@t3am$#@!(*(:180.183.131.192
+root:7hur@y@t3am$#@!(*(:180.183.131.192
+DUP root:7hur@y@t3am$#@!(*(:180.183.148.53
+root:7hur@y@t3am$#@!(*(:180.183.148.53
+DUP root:7hur@y@t3am$#@!(*(:180.183.144.192
+root:7hur@y@t3am$#@!(*(:180.183.144.192
+DUP root:7hur@y@t3am$#@!(*(:180.183.164.237
+root:7hur@y@t3am$#@!(*(:180.183.164.237
+DUP root:7hur@y@t3am$#@!(*(:180.183.179.251
+root:7hur@y@t3am$#@!(*(:180.183.179.251
+DUP root:7hur@y@t3am$#@!(*(:180.183.191.177
+root:7hur@y@t3am$#@!(*(:180.183.191.177
+DUP root:7hur@y@t3am$#@!(*(:180.183.207.22
+root:7hur@y@t3am$#@!(*(:180.183.207.22
+DUP root:7hur@y@t3am$#@!(*(:180.183.251.146
+root:7hur@y@t3am$#@!(*(:180.183.251.146
+DUP root:7hur@y@t3am$#@!(*(:180.183.211.202
+root:7hur@y@t3am$#@!(*(:180.183.211.202
+DUP root:7hur@y@t3am$#@!(*(:180.183.211.13
+root:7hur@y@t3am$#@!(*(:180.183.211.13
+DUP root:7hur@y@t3am$#@!(*(:180.183.206.13
+root:7hur@y@t3am$#@!(*(:180.183.206.13
+DUP root:7hur@y@t3am$#@!(*(:180.183.41.130
+root:7hur@y@t3am$#@!(*(:180.183.41.130
+DUP root:7hur@y@t3am$#@!(*(:180.183.189.33
+root:7hur@y@t3am$#@!(*(:180.183.189.33
+DUP root:7hur@y@t3am$#@!(*(:180.183.222.161
+root:7hur@y@t3am$#@!(*(:180.183.222.161
+DUP root:7hur@y@t3am$#@!(*(:180.183.43.181
+root:7hur@y@t3am$#@!(*(:180.183.43.181
+DUP root:7hur@y@t3am$#@!(*(:180.183.43.123
+root:7hur@y@t3am$#@!(*(:180.183.43.123
+DUP root:7hur@y@t3am$#@!(*(:180.183.50.130
+root:7hur@y@t3am$#@!(*(:180.183.50.130
+DUP root:7hur@y@t3am$#@!(*(:180.183.48.44
+root:7hur@y@t3am$#@!(*(:180.183.48.44
+DUP root:7hur@y@t3am$#@!(*(:180.183.54.172
+root:7hur@y@t3am$#@!(*(:180.183.54.172
+DUP root:7hur@y@t3am$#@!(*(:180.183.54.216
+root:7hur@y@t3am$#@!(*(:180.183.54.216
+root:000000:180.183.151.106
+DUP root:7hur@y@t3am$#@!(*(:180.183.82.197
+root:7hur@y@t3am$#@!(*(:180.183.82.197
+DUP root:7hur@y@t3am$#@!(*(:180.183.82.89
+root:7hur@y@t3am$#@!(*(:180.183.82.89
+DUP root:7hur@y@t3am$#@!(*(:180.183.89.249
+root:7hur@y@t3am$#@!(*(:180.183.89.249
+DUP root:7hur@y@t3am$#@!(*(:180.183.80.161
+root:7hur@y@t3am$#@!(*(:180.183.80.161
+root:magician:180.183.131.83
+DUP root:7hur@y@t3am$#@!(*(:180.183.91.123
+root:7hur@y@t3am$#@!(*(:180.183.91.123
+root:magician:180.183.140.228
+DUP root:7hur@y@t3am$#@!(*(:180.183.99.34
+root:7hur@y@t3am$#@!(*(:180.183.99.34
+root:magician:180.183.186.4
+root:magician:180.183.87.6
+root:000000:182.124.80.31
+root:000000:182.132.170.121
+root:112233:182.133.172.125
+root:000000:182.201.139.215
+root:000000:183.156.122.146
+root:000000:183.221.61.90
+root:000000:183.221.61.92
+root:000000:183.30.30.24
+root:000000:183.27.5.73
+root:000000:183.26.185.180
+root:000000:183.31.121.161
+root:123456:183.246.62.65
+root:default:183.65.23.11
+root:000000:183.8.181.252
+root:000000:183.8.183.154
+root:hstan2020:183.78.168.11
+root:123456:183.60.195.218
+root:123123:183.61.171.194
+root:123123:183.61.171.199
+root:123123:183.61.171.206
+root:123123:183.61.171.195
+root:123456:183.63.74.162
+root:123456:183.63.74.165
+root:hstan2020:183.78.168.18
+root:abc123:184.175.35.152
+root:default:184.184.1.70
